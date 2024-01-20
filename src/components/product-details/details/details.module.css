@@ -1,0 +1,21 @@
+.wrapper_details {
+  margin-top: 32px;
+  padding: 22px;
+  border-radius: 7px;
+  border: 1px solid #e6e6e6;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.text {
+  color: #849a8e;
+}
+.bold {
+  color: #1d252c;
+  font-weight: 400;
+}
+.wrapper_text {
+  display: flex;
+  gap: 5px;
+}

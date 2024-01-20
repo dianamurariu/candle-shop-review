@@ -1,0 +1,21 @@
+.stepper {
+  display: flex;
+  align-items: center;
+}
+.stepper_item a {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-decoration: none;
+  color: #616161;
+}
+.stepper_active a {
+  color: #272727;
+}
+.stepper_passed a {
+  color: #56b280;
+}
+.stepper_separator {
+  margin: 0 10px; /* Adjust the margin as needed for spacing */
+}

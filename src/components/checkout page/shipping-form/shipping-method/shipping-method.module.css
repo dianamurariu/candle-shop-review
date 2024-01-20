@@ -1,0 +1,37 @@
+.shipping__method {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.shipping__method_title {
+  color: #272727;
+  font-weight: 500;
+}
+.radio_button {
+  border-radius: 7px;
+  border: 1px solid #e5e5e5;
+  padding: 20px;
+}
+.radio_label {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.shipping_option {
+  color: #272727;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  margin-left: 25px;
+}
+.shipping_price {
+  color: #272727;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+}

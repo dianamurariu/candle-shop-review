@@ -1,0 +1,13 @@
+.button_delete {
+  background-color: transparent;
+  border: none;
+  color: #56b280;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  text-decoration-line: underline;
+}
+.button_delete:hover {
+  color: #49976c;
+}

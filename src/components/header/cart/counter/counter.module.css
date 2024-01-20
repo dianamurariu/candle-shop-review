@@ -1,0 +1,11 @@
+.counter {
+  background-color: #56b280;
+  padding: 3px 5px;
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 500;
+  border-radius: 50%;
+  display: flex;
+}

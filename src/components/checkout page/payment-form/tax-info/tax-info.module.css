@@ -1,0 +1,25 @@
+.tax__info {
+  margin-top: 40px;
+}
+.tax__info_title {
+  color: #272727;
+  font-weight: 500;
+}
+.wrapper_tax_info {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.wrapper_tax_info input {
+  border: 0.5px solid #898989;
+  padding: 7px 17px;
+}
+
+.wrapper_tax_info::placeholder {
+  color: #616161;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+}

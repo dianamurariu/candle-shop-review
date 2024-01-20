@@ -1,0 +1,29 @@
+.button_add {
+  width: 370px;
+  margin-top: 50px;
+  border-radius: 4px;
+  border: 1px solid #56b280;
+  background: transparent;
+  padding: 8px 44px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.button_add.hovered {
+  background-color: #56b280;
+}
+.button_add img {
+  width: 24px;
+  height: 24px;
+}
+.button_text {
+  color: #56b280;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  transition: color 0.3s;
+}
+.button_add.hovered .button_text {
+  color: #fff;
+}

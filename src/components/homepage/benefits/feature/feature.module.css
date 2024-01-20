@@ -1,0 +1,17 @@
+.feature_icon {
+  margin-right: 10px;
+}
+.feature_name {
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 29px;
+}
+.feature_desc {
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+}

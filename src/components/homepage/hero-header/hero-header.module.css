@@ -1,0 +1,15 @@
+.hero_header {
+  background-image: url(/public/images/bg-hero.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  width: 100%;
+  height: 780px;
+  position: relative;
+}
+.wrapper_card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

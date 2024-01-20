@@ -1,0 +1,10 @@
+.cart_wrapper {
+  background-color: #fff;
+  padding: 30px 0 150px;
+}
+.cart_bottom {
+  margin-top: 40px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 100px;
+}

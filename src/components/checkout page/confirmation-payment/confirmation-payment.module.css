@@ -1,0 +1,22 @@
+.confirmation__payment {
+  text-align: center;
+}
+.confirmation_btns {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 40px;
+}
+.btn_print {
+  border: none;
+  background-color: transparent;
+  color: #56b280;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  text-decoration-line: underline;
+}
+.btn_print:hover {
+  color: #49976c;
+}

@@ -1,0 +1,25 @@
+.testimonials {
+  background-color: rgba(86, 178, 128, 0.1);
+}
+.container_inner {
+  padding: 90px 0;
+}
+.title {
+  color: #0b254b;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: -0.9px;
+}
+.subtitle {
+  color: #5e6e89;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  margin-top: 15px;
+}
+.wrapper_cards {
+  margin-top: 27px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30p;
+}

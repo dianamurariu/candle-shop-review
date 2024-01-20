@@ -1,0 +1,15 @@
+.list_item {
+  list-style: none;
+}
+.list_title {
+  color: #56b280;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28.8px;
+  margin-bottom: 25px;
+}
+
+.list_sub_item {
+  list-style: none;
+}

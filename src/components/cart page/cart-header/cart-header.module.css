@@ -1,0 +1,13 @@
+.wrapper_header {
+  background-color: #fff;
+  padding: 60px 0 35px;
+  text-align: center;
+}
+.title {
+  color: #272727;
+  font-weight: 500;
+  line-height: 57px;
+}
+.wrapper_button {
+  margin-top: 17px;
+}

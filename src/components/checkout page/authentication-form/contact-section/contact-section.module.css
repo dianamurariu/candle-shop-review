@@ -1,0 +1,59 @@
+.contact__section {
+  margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.contact__section_header {
+  display: flex;
+  justify-content: space-between;
+}
+.contact_title {
+  color: #272727;
+  font-weight: 500;
+}
+.contact_login {
+  display: flex;
+  color: #616161;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.login_link {
+  color: #56b280;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.login_link:hover {
+  color: #49976c;
+}
+.contact__section_body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.input_email {
+  border: 0.5px solid #56b280;
+  background: #fff;
+  padding: 7px 17px;
+}
+.input_email ::placeholder {
+  color: #616161;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.contact_checkbox {
+  display: flex;
+  align-items: center;
+}
+.contact_checkbox label {
+  color: #272727;
+  margin-left: 10px;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+}

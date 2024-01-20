@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "author": "Luisa",
+    "review": "“I love it! No more air fresheners”",
+    "imgSrc": "./images/person-1.svg",
+    "starSrc": "./images/Stars-1.svg"
+  },
+  {
+    "id": 1,
+    "author": "Edoardo",
+    "review": "“Reccomended for everyone”",
+    "imgSrc": "./images/person-2.svg",
+    "starSrc": "./images/Stars-2.svg"
+  },
+  {
+    "id": 2,
+    "author": "Mart",
+    "review": "“Looks very natural, the smell is awesome”",
+    "imgSrc": "./images/person-3.svg",
+    "starSrc": "./images/Stars-1.svg"
+  }
+]

@@ -1,0 +1,30 @@
+.billing_address {
+  margin-top: 40px;
+}
+.billing_title {
+  color: #272727;
+  font-weight: 500;
+}
+.radio_buttons {
+  border-radius: 7px;
+  border: 1px solid #e5e5e5;
+  margin-top: 25px;
+  padding: 20px;
+}
+.radio_label {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.billing_option {
+  color: #272727;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.divider {
+  height: 1px;
+  background-color: #818181;
+  margin: 20px 0;
+}

@@ -1,0 +1,49 @@
+.wrapper_price {
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.subtotal,
+.shipping_price,
+.total {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #616161;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.shipping {
+  color: #616161;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.subtotal_price {
+  color: #272727;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+}
+.divider {
+  width: 410px;
+  height: 1px;
+  background: rgba(86, 178, 128, 0.2);
+  margin: 0 auto;
+  margin-top: 28px;
+  margin-bottom: 15px;
+}
+.total_price {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.total_green {
+  color: #56b280;
+}

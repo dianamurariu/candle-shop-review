@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Spiced Mint",
+    "price": 1.99,
+    "img": "/images/candle-1.svg"
+  },
+  {
+    "id": 1,
+    "name": "Sweet Straweberry",
+    "price": 2.99,
+    "img": "/images/candle-2.svg"
+  },
+  {
+    "id": 2,
+    "name": "Cool Blueberries",
+    "price": 3.99,
+    "img": "/images/candle-3.svg"
+  },
+  {
+    "id": 3,
+    "name": "Juicy Lemon",
+    "price": 4.99,
+    "img": "/images/candle-4.svg"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Orange",
+    "price": 5.99,
+    "img": "/images/candle-5.svg"
+  },
+  {
+    "id": 5,
+    "name": "Fragrant Cinnamon",
+    "price": 6.99,
+    "img": "/images/candle-6.svg"
+  },
+  {
+    "id": 6,
+    "name": "Summer Cherries",
+    "price": 7.99,
+    "img": "/images/candle-7.svg"
+  },
+  {
+    "id": 7,
+    "name": "Clean Lavander",
+    "price": 8.99,
+    "img": "/images/candle-8.svg"
+  }
+]

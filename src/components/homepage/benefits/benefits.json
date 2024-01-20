@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Eco-sustainable: ",
+    "desc": "All recyclable materials, 0% CO2 emissions.",
+    "img": "./images/checkmark.svg"
+  },
+  {
+    "id": 1,
+    "name": "Hyphoallergenic: ",
+    "desc": "100% natural, human friendly ingredients.",
+    "img": "./images/checkmark.svg"
+  },
+  {
+    "id": 2,
+    "name": "Handmade: ",
+    "desc": "All candles are craftly made with love.",
+    "img": "./images/checkmark.svg"
+  },
+  {
+    "id": 3,
+    "name": "Long burning: ",
+    "desc": "No more waste. Created for last long.",
+    "img": "./images/checkmark.svg"
+  }
+]

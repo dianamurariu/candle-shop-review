@@ -1,0 +1,12 @@
+.subfooter {
+  background-color: #e5e5e5;
+}
+.copyright {
+  color: #5e6e89;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  padding: 25px;
+  text-align: center;
+}

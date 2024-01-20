@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "title": "Discovery",
+    "items": [
+      { "id": 0, "name": "New season" },
+      { "id": 1, "name": "Most searched" },
+      { "id": 2, "name": "Most sold" }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "About",
+    "items": [
+      { "id": 0, "name": "Help" },
+      { "id": 1, "name": "Shipping" },
+      { "id": 2, "name": "Affiliate" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Info",
+    "items": [
+      { "id": 0, "name": "Contact us" },
+      { "id": 1, "name": "Privacy Policies" },
+      { "id": 2, "name": "Terms & Conditions" }
+    ]
+  }
+]

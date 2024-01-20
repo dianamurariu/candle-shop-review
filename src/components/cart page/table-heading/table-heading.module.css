@@ -1,0 +1,15 @@
+.table_title {
+  color: #272727;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.right_aligned {
+  text-align: right;
+}
+.divider {
+  margin-top: 17px;
+  height: 1px;
+  background-color: #e5e5e5;
+}

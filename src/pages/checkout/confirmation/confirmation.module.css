@@ -1,0 +1,8 @@
+.container_inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0 120px;
+}
+.total_green {
+  color: #56b280;
+}

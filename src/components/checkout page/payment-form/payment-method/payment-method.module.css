@@ -1,0 +1,53 @@
+.payment__method {
+  margin-top: 40px;
+}
+.payment__method_title {
+  color: #272727;
+  font-weight: 500;
+}
+.credit_card {
+  border-radius: 7px;
+  border: 1px solid #e5e5e5;
+  margin-top: 25px;
+}
+.wrapper_credit_card_title {
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  background-color: rgba(86, 178, 128, 0.4);
+  display: flex;
+  padding: 14px 21px;
+  align-items: center;
+}
+.credit_card_title {
+  color: #56b280;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+  margin-left: 25px;
+}
+.credit_card_info {
+  padding: 25px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.credit_card input {
+  border: 0.5px solid #898989;
+  padding: 7px 17px;
+}
+.credit_card::placeholder {
+  color: #616161;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.credit_card_expiration {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+}
+.credit_card_expiration input {
+  width: 100%;
+}

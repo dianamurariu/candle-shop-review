@@ -1,0 +1,57 @@
+.shipping_section {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.shipping_title {
+  color: #272727;
+  font-weight: 500;
+}
+.shipping__section_body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.shipping__section_body input {
+  border: 0.5px solid #898989;
+  padding: 7px 17px;
+}
+.shipping__section_body::placeholder {
+  color: #616161;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.shipping_name {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+}
+.shipping_name input {
+  width: 100%;
+}
+.shipping_city {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+.shipping_city select,
+.shipping__section_body select {
+  border: 0.5px solid #898989;
+  padding: 7px 17px;
+  width: 100%;
+}
+.shipping_checkbox {
+  display: flex;
+  align-items: center;
+}
+.shipping_checkbox label {
+  color: #272727;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  margin-left: 10px;
+}

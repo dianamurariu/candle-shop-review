@@ -1,0 +1,50 @@
+/* Global CSS Reset */
+html, body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, figure, figcaption, blockquote, dl, dt, dd, pre, a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+}
+/* Global Title */
+h1 {
+  font-family: Poppins;
+  font-size: 40px;
+  line-height: 58px;
+}
+h2 {
+  font-family: Poppins;
+  font-size: 40px;
+  line-height: 47px;
+}
+h3 {
+  font-family: Poppins;
+  font-size: 26px;
+  line-height: 58px;
+}
+h4 {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 26px;
+}
+h5 {
+  font-family: Poppins;
+  font-size: 18px;
+  line-height: 28px;
+}
+h6 {
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 28px;
+}

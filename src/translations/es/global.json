@@ -1,0 +1,190 @@
+{
+  "home": {
+    "hero": {
+      "title": "La vela de la naturaleza",
+      "desc": "Todo hecho a mano con cera de soja natural, Candleaf es un compañero para todos tus momentos de placer.",
+      "btn.collection": "Descubre nuestra colección"
+    },
+    "product-listing": {
+      "title": "Productos",
+      "subtitle": "Pídelo para ti o para tus seres queridos"
+    },
+    "benefits": {
+      "title": "Cera de soja limpia y fragante",
+      "subtitle": "Hecho para tu hogar y para tu bienestar",
+      "btn.learMore": "Aprende más",
+      "benefitsList": [
+        {
+          "id": 0,
+          "name": "Eco-sostenible: ",
+          "desc": "Todos los materiales son reciclables, 0% de emisiones de CO2.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 1,
+          "name": "Hipoalergénico: ",
+          "desc": "Ingredientes 100% naturales y respetuosos con el ser humano.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 2,
+          "name": "Hecho a mano: ",
+          "desc": "Todas las velas están hechas con amor artesanalmente.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 3,
+          "name": "Quema larga: ",
+          "desc": "No más desperdicio. Creado para durar mucho tiempo.",
+          "img": "./images/checkmark.svg"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "subtitle": "Algunas citas de nuestros clientes satisfechos"
+    },
+    "popular": {
+      "title": "Popular",
+      "subtitle": "Nuestro producto más vendido que te puede gustar"
+    }
+  },
+  "product-details": {
+    "details": {
+      "wax": {
+        "title": "Cera:",
+        "desc": "Cera de soja de primera calidad que proporciona una quemadura consistente y con menos humo."
+      },
+      "fragrance": {
+        "title": "Fragancia:",
+        "desc": "Ingredientes de primera calidad con aceites esenciales naturales."
+      },
+      "burning": {
+        "title": "Tiempo:",
+        "desc": "70-75 horas"
+      },
+      "dimensions": {
+        "title": "Dimensión:",
+        "desc": "10cm x 5cm"
+      },
+      "weight": {
+        "title": "Peso:",
+        "desc": "400g"
+      }
+    },
+    "product-info": {
+      "quantity": "Cantidad"
+    },
+    "product-presentation": {
+      "desc": "Todo hecho a mano con cera de soja natural, Candleaf está hecho para tus momentos de placer.",
+      "desc2": "🚚 ENVÍO GRATIS"
+    },
+    "subscription": {
+      "option1": "Compra única",
+      "option2": "Suscríbete y entrega cada",
+      "option2-desc": "Suscríbete ahora y obtén el 10% de descuento en cada pedido recurrente. El descuento se aplicará al finalizar la compra.",
+      "details": "Ver detalles",
+      "week": "semana",
+      "weeks": "semanas"
+    }
+  },
+  "cart": {
+    "header": {
+      "title": "Artículos de tu carrito",
+      "btn.shopping": "comprar"
+    },
+    "cart-wrapper": {
+      "col.product": "Producto",
+      "col.price": "Precio",
+      "col.quantity": "Cantidad",
+      "col.total": "Total",
+      "VAT": "Los impuestos y el costo de envío se calcularán más tarde."
+    }
+  },
+  "checkout": {
+    "authentication": {
+      "contact": {
+        "title": "Contacto",
+        "account": "¿Tiene usted una cuenta?",
+        "discount": "Agrégame al boletín de Candleaf para obtener un 10% de descuento",
+        "email": "Correo electrónico o número de teléfono móvil"
+      },
+      "shipping": {
+        "title": "Dirección de envío",
+        "checkbox": "Guarde esta información para un checkout rápido en el futuro",
+        "name": "Nombre",
+        "secondName": "Segundo Nombre",
+        "address": "Dirección y número",
+        "note": "Nota de envío (opcional)",
+        "city": "Ciudad",
+        "postalCode": "Código Postal",
+        "province": "Provincia",
+        "country": "País/Región"
+      },
+      "btn.cart": "carrito"
+    },
+    "shipping": {
+      "method": {
+        "title": "Método de envío",
+        "option": "Envío estándar",
+        "free": "GRATIS"
+      },
+      "btn.details": "detalles"
+    },
+    "summary": {
+      "contact": "Contacto :",
+      "ship": "Envie a :",
+      "method": "Método :",
+      "option": "Envío estándar - GRATIS"
+    },
+    "payment": {
+      "method": {
+        "title": "Método de pago"
+      },
+      "tax": {
+        "title": "Información fiscal"
+      },
+      "billing": {
+        "title": "Dirección de Envio",
+        "option1": "Lo mismo que la dirección de envío",
+        "option2": "Utilice una dirección diferente para la facturación"
+      },
+      "btn.shipping": "envío"
+    },
+    "confirmation": {
+      "title": "Pago confirmado",
+      "thanks": "Gracias Joe por comprar Candleaf. La naturaleza te está agradecida. Ahora que su pedido está confirmado, estará listo para enviarse en 2 días. Por favor revise su bandeja de entrada en el futuro para ver las actualizaciones de su pedido."
+    },
+    "summary-product": {
+      "cupon": {
+        "btn.cupon": "Agregar código",
+        "code": "Código de cupón"
+      },
+      "price": {
+        "shipping": "Envío",
+        "calcNextStep": "Calculado en el siguiente paso",
+        "freeShipping": "Envío Gratis",
+        "paid": "Pagado"
+      }
+    }
+  },
+  "header": {
+    "nav": {
+      "discovery": "Descubrimiento",
+      "about": "Acerca de",
+      "contact": "Contáctanos"
+    }
+  },
+  "footer": {
+    "desc": "Tu vela natural hecha para tu hogar y para tu bienestar."
+  },
+  "btn.add": "+ Añadir al carrito",
+  "btn.delete": "Eliminar",
+  "btn.back": "Volver a",
+  "btn.checkout": "Pago",
+  "btn.shipping": "Ir a envío",
+  "btn.payment": "Ir a pago",
+  "btn.payNow": "Pagar ahora",
+  "btn.shopping": "Volver a comprar",
+  "btn.print": "Imprimir recibo"
+}

@@ -1,0 +1,191 @@
+{
+  "home": {
+    "hero": {
+      "title": "The nature candle",
+      "desc": "All handmade with natural soy wax, Candleaf is a companion for all your pleasure moments",
+      "btn.collection": "Discovery our collection"
+    },
+    "product-listing": {
+      "title": "Products",
+      "subtitle": "Order it for you or for your beloved ones"
+    },
+    "benefits": {
+      "title": "Clean and fragrant soy wax",
+      "subtitle": "Made for your home and for your wellness",
+      "btn.learMore": "Learn more",
+      "benefitsList": [
+        {
+          "id": 0,
+          "name": "Eco-sustainable: ",
+          "desc": "All recyclable materials, 0% CO2 emissions.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 1,
+          "name": "Hyphoallergenic: ",
+          "desc": "100% natural, human-friendly ingredients.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 2,
+          "name": "Handmade: ",
+          "desc": "All candles are craftly made with love.",
+          "img": "./images/checkmark.svg"
+        },
+        {
+          "id": 3,
+          "name": "Long burning: ",
+          "desc": "No more waste. Created to last long.",
+          "img": "./images/checkmark.svg"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "subtitle": "Some quotes from our happy customers"
+    },
+    "popular": {
+      "title": "Popular",
+      "subtitle": "Our top selling product that you may like"
+    }
+  },
+
+  "product-details": {
+    "details": {
+      "wax": {
+        "title": "Wax:",
+        "desc": "Top grade Soy wax that delivers a smoke less, consistent burn"
+      },
+      "fragrance": {
+        "title": "Fragrance:",
+        "desc": "Premium quality ingredients with natural essential oils"
+      },
+      "burning": {
+        "title": "Burning Time:",
+        "desc": "70-75 hours"
+      },
+      "dimensions": {
+        "title": "Dimension:",
+        "desc": "10cm x 5cm"
+      },
+      "weight": {
+        "title": "Weight:",
+        "desc": "400g"
+      }
+    },
+    "product-info": {
+      "quantity": "Quantity"
+    },
+    "product-presentation": {
+      "desc": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+      "desc2": "🚚 FREE SHIPPING"
+    },
+    "subscription": {
+      "option1": "One time purchase",
+      "option2": "Subscribe and delivery every",
+      "option2-desc": "Subscribe now and get the 10% of discount on every recurring order.  The discount will be applied at checkout.",
+      "details": "See details",
+      "week": "week",
+      "weeks": "weeks"
+    }
+  },
+  "cart": {
+    "header": {
+      "title": "Your cart items",
+      "btn.shopping": "shopping"
+    },
+    "cart-wrapper": {
+      "col.product": "Product",
+      "col.price": "Price",
+      "col.quantity": "Quantity",
+      "col.total": "Total",
+      "VAT": "Tax and shipping cost will be calculated later"
+    }
+  },
+  "checkout": {
+    "authentication": {
+      "contact": {
+        "title": "Contact",
+        "account": "Do you have an account?",
+        "discount": "Add me to Candleaf newsletter for a 10% discount",
+        "email": "Email or mobile phone number"
+      },
+      "shipping": {
+        "title": "Shipping Address",
+        "checkbox": "Save this informations for a future fast checkout",
+        "name": "Name",
+        "secondName": "Second Name",
+        "address": "Address and number",
+        "note": "Shipping note (optional)",
+        "city": "City",
+        "postalCode": "Postal Code",
+        "province": "Province",
+        "country": "Country/Region"
+      },
+      "btn.cart": "cart"
+    },
+    "shipping": {
+      "method": {
+        "title": "Shipping Method",
+        "option": "Standard Shipping",
+        "free": "FREE"
+      },
+      "btn.details": "details"
+    },
+    "summary": {
+      "contact": "Contact :",
+      "ship": "Ship to :",
+      "method": "Method :",
+      "option": "Standard Shipping - FREE"
+    },
+    "payment": {
+      "method": {
+        "title": "Payment Method"
+      },
+      "tax": {
+        "title": "Tax Informations"
+      },
+      "billing": {
+        "title": "Billing Address",
+        "option1": "Same as the shipping address",
+        "option2": "Use a different address for billing"
+      },
+      "btn.shipping": "shipping"
+    },
+    "confirmation": {
+      "title": "Payment Confirmed",
+      "thanks": "Thank you Joe for buying Candleaf. The nature is grateful to you. Now that your order is confirmed will be ready to ship in 2 days. Please check your inbox in the future for your order updates."
+    },
+    "summary-product": {
+      "cupon": {
+        "btn.cupon": "Add code",
+        "code": "Coupon code"
+      },
+      "price": {
+        "shipping": "Shipping",
+        "calcNextStep": "Calculated at the next step",
+        "freeShipping": "Free Shipping",
+        "paid": "Paid"
+      }
+    }
+  },
+  "header": {
+    "nav": {
+      "discovery": "Discovery",
+      "about": "About",
+      "contact": "Contact us"
+    }
+  },
+  "footer": {
+    "desc": "Your natural candle made for your home and for your wellness."
+  },
+  "btn.add": "+ Add to cart",
+  "btn.delete": "Remove",
+  "btn.back": "Back to",
+  "btn.checkout": "Checkout",
+  "btn.shipping": "Go to shipping",
+  "btn.payment": "Go to payment",
+  "btn.payNow": "Pay now",
+  "btn.shopping": "Back to shopping",
+  "btn.print": "Print Receipt"
+}

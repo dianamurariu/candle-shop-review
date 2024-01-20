@@ -1,0 +1,25 @@
+.benefits {
+  background-color: #f7f8fa;
+}
+.container_inner {
+  padding: 130px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  width: 350px;
+  color: #1d252c;
+  font-weight: 500;
+  letter-spacing: -0.9px;
+}
+.subtitle {
+  margin-top: 15px;
+  color: #56b280;
+  font-weight: 400;
+}
+.wrapper_features {
+  margin: 38px 0 68px;
+}
+.image {
+  margin-top: -40px;
+}
